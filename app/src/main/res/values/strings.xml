@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tute2</string>
+    <string name="pt_input">Enter value</string>
+    <string name="txtview_1">Temperature Calculator</string>
+    <string name="radio_celcius">Celsius</string>
+    <string name="radio_farenhite">Farenhite</string>
+    <string name="btn_Calculation">Calculate</string>
+    <string name="textview_displayanswer">Ans</string>
+</resources>
